@@ -1,0 +1,27 @@
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\DocumentDBDemo.exe.config
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\DocumentDBDemo.exe
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\DocumentDBDemo.pdb
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\obj\Debug\DocumentDBDemo.csprojResolveAssemblyReference.cache
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\obj\Debug\DocumentDBDemo.exe
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\AzureDB1\obj\Debug\DocumentDBDemo.pdb
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\DocumentDBDemo\bin\Debug\DocumentDBDemo.exe.config
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\DocumentDBDemo\obj\Debug\DocumentDBDemo.exe
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\DocumentDBDemo\DocumentDBDemo\obj\Debug\DocumentDBDemo.pdb
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\DocumentDBDemo.exe.config
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\DocumentDBDemo.exe
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\DocumentDBDemo.pdb
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\obj\Debug\DocumentDBDemo.csprojResolveAssemblyReference.cache
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\obj\Debug\DocumentDBDemo.exe
+C:\Users\Z066495\Desktop\Demo\DocumentDBDemo\DocumentDBDemo\obj\Debug\DocumentDBDemo.pdb

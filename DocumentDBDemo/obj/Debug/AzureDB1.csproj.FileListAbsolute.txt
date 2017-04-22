@@ -1,0 +1,12 @@
+c:\users\z066495\documents\visual studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\AzureDB1.exe.config
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\obj\Debug\AzureDB1.csprojResolveAssemblyReference.cache
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\AzureDB1.exe
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\AzureDB1.pdb
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\obj\Debug\AzureDB1.exe
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\obj\Debug\AzureDB1.pdb
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Z066495\Documents\Visual Studio 2015\Projects\AzureDB1\AzureDB1\bin\Debug\Newtonsoft.Json.xml
